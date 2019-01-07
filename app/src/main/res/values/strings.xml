@@ -1,0 +1,50 @@
+<resources>
+
+    //Modes
+
+    <string name="mode_normal">Normal Mode</string>
+    <string name="mode_bar">Bar Mode</string>
+    <string name="mode_settings">Settings</string>
+    <string name="mode_stats">Statistics</string>
+
+    // Buttons and texts
+
+    <string name="app_name">Beer Counter</string>
+
+    <string name="smallBeerAmount">0</string>
+    <string name="beer033L">0,33 L Beer</string>
+
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+
+    <string name="largeBeerAmount">0</string>
+    <string name="beer05L">0,5 L Beer</string>
+
+    <string name="longDrinksAmount">0</string>
+    <string name="longDrink">0,5 L Long drink</string>
+
+    <string name="smallCiderAmount">0</string>
+    <string name="cider03L">0,33 L Cider</string>
+
+    <string name="shotsAmount">0</string>
+    <string name="shots">Shots</string>
+
+    // Settings texts
+
+    <string name="price">Price</string>
+    <string name="small_beer_cost">Small beer price</string>
+    <string name="large_beer_cost">Large beer price</string>
+    <string name="longDrink_cost">Long drink price</string>
+    <string name="small_cider_cost">Small cider price</string>
+    <string name="shots_cost">Shots price</string>
+    <string name="submit_button">Submit</string>
+
+    // Stats text @ settings
+
+    <string name="total_cost_small_beers">0</string>
+    <string name="total_cost_large_beers">0</string>
+    <string name="total_cost_long_drinks">0</string>
+    <string name="total_cost_small_cider">0</string>
+    <string name="total_cost_shots">0</string>
+
+</resources>

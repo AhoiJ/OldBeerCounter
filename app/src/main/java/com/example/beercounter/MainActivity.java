@@ -234,7 +234,7 @@ public class MainActivity extends AppCompatActivity {
     // Minus button function
     public void decreaseShots(View view) { // if - button is pressed run code
 
-        mShotsCount = decreaseInteger(mShotsCount); // function decreases integer by 1 and assings value to mShotsCount
+        mShotsCount = decreaseInteger(mShotsCount); // function decreases integer by 1 and assings value to mShotsCountls
 
         // Next 4 lines of code save the value
         SharedPreferences settings = getSharedPreferences("myPrefsFile", 0);
